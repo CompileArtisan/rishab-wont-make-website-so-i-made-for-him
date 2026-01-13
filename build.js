@@ -231,7 +231,7 @@ function generateHTML(markdownFiles) {
 </head>
 <body>
   <div id="sidebar">
-    <h2>📁 Posts</h2>
+    <h2>Rishab's Stories</h2>
     <ul id="fileList"></ul>
   </div>
   
