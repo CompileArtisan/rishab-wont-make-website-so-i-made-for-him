@@ -1,0 +1,21 @@
+{
+  "name": "rishab-wont-make-website-so-i-made-for-him",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/CompileArtisan/rishab-wont-make-website-so-i-made-for-him#readme",
+  "bugs": {
+    "url": "https://github.com/CompileArtisan/rishab-wont-make-website-so-i-made-for-him/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompileArtisan/rishab-wont-make-website-so-i-made-for-him.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "build.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "node build.js"
+  }
+}
